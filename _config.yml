@@ -1,14 +1,14 @@
 # Site settings
 title:       Politidados
-email:       your_email@example.com
+email:       
 author:      Politidados
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Analisando os dados."
 baseurl:     ""
 url:         "http://politidados.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
+ #- contact.html
 
 # Google services
 google_verification:
@@ -69,7 +69,7 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: false
@@ -83,12 +83,12 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Mais novo'
+    older: 'Mais antigo'
   share_buttons:
     text:         'Compartilhe esse post!'
     facebook:     'Compartilhe no Facebook'
-    twitter:      'Share on Twitter'
+    twitter:      'Compartilhe no Twitter'
     googleplus:   'Share on Google+'
     linkedin:     'Share on LinkedIn'
     digg:         'Share on Digg'
@@ -97,8 +97,8 @@ text:
     stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
+    updated:        'Atualizado'
+    minute_read:    'minutos de leitura'
     related_posts:  'Related Posts'
   index:
     coming_soon: 'Coming soon...'
@@ -112,7 +112,7 @@ text:
       sent:     'Message sent!'
       error:    'Error!'
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+  og_locale: 'pt_BR'
 
 # Build settings
 markdown:     kramdown
