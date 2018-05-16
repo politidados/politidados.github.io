@@ -29,7 +29,7 @@ enable_mathjax: true
 extended_fonts: false
 enable_anchorjs: false
 # Preview image for social media aka og:image and twitter:image
-post_preview_image: false
+post_preview_image: true
 
 # Facebook Page integration
 # (for instant articles and other stuff)
@@ -72,9 +72,9 @@ vk_id:
 show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: true
-share_twitter: false
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
@@ -90,7 +90,7 @@ text:
     facebook:     'Compartilhe no Facebook'
     twitter:      'Compartilhe no Twitter'
     googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
+    linkedin:     'Compartilhe no LinkedIn'
     digg:         'Share on Digg'
     tumblr:       'Share on Tumblr'
     reddit:       'Share on Reddit'
