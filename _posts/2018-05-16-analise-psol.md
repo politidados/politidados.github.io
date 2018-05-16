@@ -74,13 +74,13 @@ Cruzando os dados eleitorais com os geográficos do rio, podemos chegar nos dois
 
 O primeiro mapa mostra a intensidade dos votos de cada bairro em relação ao total de votos de Marielle (representado pela coluna % do total na tabela anterior)
 
-![image](img/total.png)
+![desk](https://raw.githubusercontent.com/politidados/politidados.github.io/master/_posts/img/total.png)
 
 A figura mostra como os votos de Marielle se concentram em bairros da zona sul e principalmente na Tijuca e estão muito pouco presentes nas zona norte e Oeste (regiões onde se concentram as favelas e áreas de milícias).
 
 Uma crítica justificada ao mapa anterior seria o fato dele priorizar bairros mais populosos, como é justamente o caso da Tijuca. Para reduzir esse efeito, decidimos ajustar os dados de votos pelo total de eleitores em cada bairro. O mapa a seguir apresenta o percentual de eleitores dentre os votantes de cada bairro que elegeram Marielle.
 
-![image](img/fracaobairro.png)
+![image](https://raw.githubusercontent.com/politidados/politidados.github.io/master/_posts/img/fracaobairro.png)
 
 Agora sim podemos afirmar com muito mais certeza que seu eleitorado se concentrava em bairros nobres da zona sul 
 
