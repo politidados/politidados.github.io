@@ -7,13 +7,13 @@ categories: psol rj
 ---
 
 
-Um dos elementos constitutivos principais de um partido e por consequência a ideologia por este manifestada, são os elementos ou grupos sociais que estes alegam presentar.
+Um dos elementos constitutivos principais de um partido e por consequência a ideologia por este manifestada, são os elementos ou grupos sociais que estes alegam representar.
 
-Tome por exemplo, o partido Socialismo e Liberdade, que declarara no seu estatuto, capítulo II, artigo 5º:
+Tome, por exemplo, o partido Socialismo e Liberdade, que declarara no seu estatuto, capítulo II, artigo 5º:
 
 >“O Partido SOCIALISMO E LIBERDADE desenvolverá ações com o objetivo de organizar e construir, junto com os trabalhadores do campo e da cidade, de todos os setores explorados, excluídos e oprimidos, bem como os estudantes, os pequenos produtores rurais e urbanos, a clareza acerca da necessidade histórica da construção de uma sociedade socialista, com ampla democracia para os trabalhadores, que assegure a liberdade de expressão política, cultural, artística, racial, sexual e religiosa, tal como está expressado no programa partidário” .
 
-O partido se projeta e se declara, como o representante natural dos trabalhadores da cidade, do campo, todos os excluídos e oprimidos, bem como os estudantes. Não seria, portanto, um exagero dizer que esses são os votos, que o partido (pelo menos) espera conquistar.
+O partido se projeta e se declara, como o representante natural dos trabalhadores da cidade, do campo, todos os excluídos e oprimidos, bem como os estudantes. Não seria, portanto, um exagero dizer que esses são os votos que o partido (pelo menos) espera conquistar.
 No caso icônico mais recente, após o trágico assassinato da vereadora Marielle Franco, logo vieram as alegações de que ela foi morta por representar os pobres e negros da favela, disse Gregório Duvivier em sua coluna:
 
 >“Toda execução de um político é um ato político: junto com o representante, querem matar tudo aquilo que ele representa. Marielle passou a vida lutando contra o feminicídio, a guerra às drogas, a desigualdade, e sobretudo o genocídio da população preta e pobre. Não tratar a morte de Marielle como parte desse genocídio é desrespeitá-la”
