@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Análise dos dados eleitorais do PSOL no Rio de Janeiro
+title:      Quem, afinal, elegeu Marielle Franco?
 date:       2018-05-16
 summary:    Será que os pobres e negros da favela elegeram Marielle ou qualquer outro membro do PSOL, como representantes dos seus interesses no legislativo?
 categories: psol rj
