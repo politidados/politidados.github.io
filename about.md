@@ -1,87 +1,16 @@
 ---
 layout: page
-title: About Pixyll
+title: Manifesto
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Manifesto [Politidados](https://www.facebook.com/politidadospage/)
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+O Ano é 2018. As redes sociais cada vez mais tomam o lugar dos meios tradicionais de comunicação na função de informar. No mundo ocidental, a política volta mais uma vez a se tornar o centro da vida urbana e permeia não apenas os interesses dos diversos agentes econômicos, sociais e centros de poder. A política agora faz parte da mesa de bar, do almoço de domingo, da conversa fiada com estranhos no transporte público e até mesmo lugar de contenda entre amigos e familiares.
 
-Thanks to the following:
+Há 2 anos, a Oxford Dictionaries nomeou “Pós-Verdade”, o verbete do ano. Pós-Verdade ou “Post-Truth” pode ser entendido como o predomínio das paixões ideológica sobre os fatos. Pode também ser entendido como a manipulação da verdade, se fazendo valer da dificuldade (ou até desinteresse) do grande público em checar as afirmações.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Nós entendemos que num mundo onde as grandes corporações e organizações já entenderam a necessidade de ser “orientado a dados”, é também nosso dever enquanto membros da polis, buscar os fatos pertinentes disponíveis, antes de tomarmos decisões e até mesmo, formularmos uma opinião a respeito do que quer que seja. Afinal de contas, se não podemos concordar sequer com os dados, sobre o que iremos dialogar?
 
-List of contributors:
-
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+Não prometemos isenção jornalística. Temos nossas opiniões. Não prometemos perfeição ou referência a todos os fatos disponíveis (não somos perfeitos e não temos todo o tempo do mundo disponível). Prometemos, porém, não emitir uma única opinião que não seja respaldada por dados públicos e verificáveis e acessíveis a todos. E a partir dos dados, podemos então discutir (e até mesmo divergir) quanto as nossas conclusões a respeito dos fatos, mas os fatos... Estão dados! Afinal de contas, se não podemos concordar sequer com os dados, sobre o que iremos dialogar?
