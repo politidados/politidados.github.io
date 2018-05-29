@@ -82,7 +82,7 @@ Com os dados de renda mediana e percentual de eleitores de cada bairro, plotamos
 
 ![image](https://raw.githubusercontent.com/politidados/politidados.github.io/master/_posts/img/votospsolbairro.png)
 
-Fica claro no gráfico acima que o PSOL performa muito melhor em bairros mais ricos. Destamos alguns exemplos paradigmaticos Lagoa e Humaitá, bairros ricos, onde o PSOL performa bem acima dos 10% de eleitorado, e Maré e Cosmos, áreas mais pobres da cidade onde estariam muitos de seus pretensos eleitores.
+Fica claro no gráfico acima que o PSOL performa muito melhor em bairros mais ricos. Destacamos alguns exemplos paradigmaticos Lagoa e Humaitá, bairros ricos, onde o PSOL performa bem acima dos 10% de eleitorado, e Maré e Cosmos, áreas mais pobres da cidade onde estariam muitos de seus pretensos eleitores.
 
 
 Como podemos ver pelos os microdados disponibilizados pelo TSE, o PSOL é um partido que representa predominantemente a burguesia carioca, por mais que não goste de admitir ou se enxergar desta maneira. Na literatura marxista clássica, essa configuração partidária é chamada de "esquerda pequeno-burguesa". Ou seja, uma esquerda composta de burgueses que aderem ao socialismo por fetichismo estético e que se acredita representar os pobres desde uma perspectiva elitista e romantizada, incapaz de compreender o proletariado porque simplesmente não faz parte dele!
