@@ -49,7 +49,7 @@ Mais uma vez podemos ver que os bairros mais nobres como Tijuca, Copacabana, Bot
 
 Essa distribuição dos votos fica mais fácil de se perceber com o mapa da figura abaixo.
 
-![image](img/totalpsol.png)
+![image](https://raw.githubusercontent.com/politidados/politidados.github.io/master/_posts/img/totalpsol.png)
 
 Como já discutimos no post anterior, uma crítica válida ao metodo de verificar os bairros por total de votos é que estamos sobre valorizando bairros muito populosos, como o caso da Tijuca. Dessa maneira, para tentar reduzir esse viés, vamos ver como ficam os dados se considerarmos o percentual de eleitores do bairro que votaram no PSOL. Isto é, quantos % dos eleitores votaram em qualquer candidato do PSOL. Dessa maneira podemos ver em quais bairros eles são mais influentes. 
 
@@ -73,14 +73,14 @@ Como já discutimos no post anterior, uma crítica válida ao metodo de verifica
 
 Como podemos ver na tabela acima, se considerarmos o percentual do eleitorado, temos um total dominio de bairros mais nobres da zona sul e grande Tijuca. Vamos ver como isso fica num mapa.
 
-![image](img/fracaobairropsol.png)
+![image](https://raw.githubusercontent.com/politidados/politidados.github.io/master/_posts/img/fracaobairropsol.png)
 
 
 Não satisfeitos, decidimos buscar na prefeitura os dados de distribuição de renda dos bairros. Utilizamos os mais recentes disponíveis na base, os de 2010. 
 
 Com os dados de renda mediana e percentual de eleitores de cada bairro, plotamos uma nuvém de pontos para avaliar se são mesmo bem correlacionados.
 
-![image](img/votospsolbairro.png)
+![image](https://raw.githubusercontent.com/politidados/politidados.github.io/master/_posts/img/votospsolbairro.png)
 
 Fica claro no gráfico acima que o PSOL performa muito melhor em bairros mais ricos. Destamos alguns exemplos paradigmaticos Lagoa e Humaitá, bairros ricos, onde o PSOL performa bem acima dos 10% de eleitorado, e Maré e Cosmos, áreas mais pobres da cidade onde estariam muitos de seus pretensos eleitores.
 
