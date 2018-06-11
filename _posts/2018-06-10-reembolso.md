@@ -3,7 +3,7 @@ layout:     post
 title:      Muito Ajuda Quem Não Atrapalha
 date:       2018-06-10
 summary:    Sabemos da rigidez do Estado quanto a cobrança dos tributos, mas será que ele é mais bondoso com os membros que o compoem? 
-categories: psol rj
+categories: camara deputados partidos gastos
 ---
 
 “O estado não tem fonte de dinheiro, a não ser o dinheiro que coleta das pessoas. Se o estado quiser gastar mais, só pode fazê-lo emitindo títulos de dívida ou aumentando os impostos. E não adianta pensar que outra pessoa vai pagar. Essa outra pessoa é você.  Não existe essa história de ‘dinheiro público’. Há apenas o dinheiro do pagador de impostos! "
