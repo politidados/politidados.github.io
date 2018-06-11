@@ -51,8 +51,8 @@ width="645" height="955"></iframe>
 
 Entre esses 10 não consta nenhum nome de alto desempenho ou proeminência nacional, o que nos leva a questionar o que justificaria tamanhos gastos.
 Em resumo, os dados nos indicam que:
-•	Os gastos vem crescendo continuamente de maneira exponencial
-•	Partidos ditos “fisiológicos” tendem a gastar mais
+*	Os gastos vem crescendo continuamente de maneira exponencial
+*	Partidos ditos “fisiológicos” tendem a gastar mais
 
 Não importa o quanto investimento você peça para a educação. Esse dinheiro será adminsitrado pelas mesmas pessoas que não se constrangem em gastar quase 500 milhões voando de avião por aí com o seu dinheiro.
 
