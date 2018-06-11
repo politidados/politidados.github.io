@@ -6,8 +6,9 @@ summary:    Sabemos da rigidez do Estado quanto a cobrança dos tributos, mas se
 categories: camara deputados partidos gastos
 ---
 
-“O estado não tem fonte de dinheiro, a não ser o dinheiro que coleta das pessoas. Se o estado quiser gastar mais, só pode fazê-lo emitindo títulos de dívida ou aumentando os impostos. E não adianta pensar que outra pessoa vai pagar. Essa outra pessoa é você.  Não existe essa história de ‘dinheiro público’. Há apenas o dinheiro do pagador de impostos! "
-Margaret Tatcher
+> “O estado não tem fonte de dinheiro, a não ser o dinheiro que coleta das pessoas. Se o estado quiser gastar mais, só pode fazê-lo emitindo títulos de dívida ou aumentando os impostos. E não adianta pensar que outra pessoa vai pagar. Essa outra pessoa é você.  Não existe essa história de ‘dinheiro público’. Há apenas o dinheiro do pagador de impostos! "
+
+> Margaret Tatcher
 
 
 Um dos possíveis resultados da recente greve dos caminhoneiros pode ser o aumento de [impostos](http://www2.camara.leg.br/camaranoticias/noticias/POLITICA/558195-RODRIGO-MAIA-DESCARTA-AUMENTO-DE-IMPOSTOS-PARA-COMPENSAR-ACORDO-COM-CAMINHONEIROS.html), descartado pelo presidente da câmara, Rodrigo Maia. Aumento de impostos é assunto desagradável, uma vez que envolve o confisco do dinheiro do cidadão para custear as experiências socio-políticas do governo.
