@@ -1,4 +1,10 @@
-# Muito Ajuda Quem Não Atrapalha
+---
+layout:     post
+title:      Muito Ajuda Quem Não Atrapalha
+date:       2018-06-10
+summary:    Sabemos da rigidez do Estado quanto a cobrança dos tributos, mas será que ele é mais bondoso com os membros que o compoem? 
+categories: psol rj
+---
 
 “O estado não tem fonte de dinheiro, a não ser o dinheiro que coleta das pessoas. Se o estado quiser gastar mais, só pode fazê-lo emitindo títulos de dívida ou aumentando os impostos. E não adianta pensar que outra pessoa vai pagar. Essa outra pessoa é você.  Não existe essa história de ‘dinheiro público’. Há apenas o dinheiro do pagador de impostos! "
 Margaret Tatcher
@@ -11,13 +17,13 @@ Na postagem de hoje, gostariámos de falar brevemente de um assunto de certo mod
 
 ## **Vamos aos dados**
 
-![image](reembolsopartido.jpg)
+![image](https://raw.githubusercontent.com/politidados/politidados.github.io/master/_posts/img/reembolsopart.png)
 
 Gostaríamos porém de oferecer alguns insights que não encontramos nas análises disponíveis até então. É importante levar em consideração que os dados aqui analisados dizem respeito a reembolso oferecido aos paralamentares brasileiros por gastos com amenidades, que alguns argumentam, não deveriam ser reembolsáveis. Envolvem gastos como: telefonia, passagens aérea, verba para divulgação da atividade parlamentar, aluguel de barco, de automóveis e aviões. Vale a pena também notar que analisamos o período 2009-2017 (inserir fonte dos dados). 
 
 O primeiro diz respeito ao aumento contínuo desses gastos ao longo do tempo como podemos ver no gráfico abaixo
 
-<iframe src="https://public.tableau.com/profile/politidados#!/vizhome/gastos_dep/Planilha1?:embed=y&:display_count=yes"
+<iframe src="https://public.tableau.com/profile/politidados#!/vizhome/gastos_dep/Planilha1?:embed=y&"
 width="645" height="955"></iframe>
 
 Uma vez que o número de parlamentares não aumentou ao longo da história da nova República, é alarmante observar como os gastos com aumentam exponencialmente com o tempo, tendo uma queda em 2017 que pode ser facilmente explicada pela abrupta queda de arrecadação causada pela recessão econômica.
