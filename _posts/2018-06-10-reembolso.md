@@ -51,6 +51,7 @@ width="645" height="955"></iframe>
 
 Entre esses 10 não consta nenhum nome de alto desempenho ou proeminência nacional, o que nos leva a questionar o que justificaria tamanhos gastos.
 Em resumo, os dados nos indicam que:
+
 *	Os gastos vem crescendo continuamente de maneira exponencial
 *	Partidos ditos “fisiológicos” tendem a gastar mais
 
