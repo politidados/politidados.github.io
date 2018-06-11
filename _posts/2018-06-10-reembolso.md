@@ -19,7 +19,7 @@ Na postagem de hoje, gostariámos de falar brevemente de um assunto de certo mod
 
 ![image](https://raw.githubusercontent.com/politidados/politidados.github.io/master/_posts/img/reembolsopart.png)
 
-Gostaríamos porém de oferecer alguns insights que não encontramos nas análises disponíveis até então. É importante levar em consideração que os dados aqui analisados dizem respeito a reembolso oferecido aos paralamentares brasileiros por gastos com amenidades, que alguns argumentam, não deveriam ser reembolsáveis. Envolvem gastos como: telefonia, passagens aérea, verba para divulgação da atividade parlamentar, aluguel de barco, de automóveis e aviões. Vale a pena também notar que analisamos o período 2009-2017 (inserir fonte dos dados). 
+Gostaríamos porém de oferecer alguns insights que não encontramos nas análises disponíveis até então. É importante levar em consideração que os dados aqui analisados dizem respeito a reembolso oferecido aos paralamentares brasileiros por gastos com amenidades, que alguns argumentam, não deveriam ser reembolsáveis. Envolvem gastos como: telefonia, passagens aérea, verba para divulgação da atividade parlamentar, aluguel de barco, de automóveis e aviões. Vale a pena também notar que analisamos o período 2009-2017. 
 
 O primeiro diz respeito ao aumento contínuo desses gastos ao longo do tempo como podemos ver no gráfico abaixo
 
