@@ -7,7 +7,6 @@ categories: camara deputados partidos gastos
 ---
 
 > “O estado não tem fonte de dinheiro, a não ser o dinheiro que coleta das pessoas. Se o estado quiser gastar mais, só pode fazê-lo emitindo títulos de dívida ou aumentando os impostos. E não adianta pensar que outra pessoa vai pagar. Essa outra pessoa é você.  Não existe essa história de ‘dinheiro público’. Há apenas o dinheiro do pagador de impostos! "
-
 > Margaret Tatcher
 
 
