@@ -7,14 +7,15 @@ categories: eleições 2018
 ---
 
 
-Na postagem de hoje gostaríamos de fazer um exercício um pouco mais lúdico e menos rigoroso. Numa de nossas primeiras postagens, trouxemos um trecho do manifesto partidário do PSOL, como evidência das suas intenções e objetivos proclamados. O frequência de aparição de algumas palavras nos chamou atenção, por representarem de maneira suficiente, a percepção geral do que representa o PSOL e o que ele busca enquanto partido.
+Na postagem de hoje gostaríamos de fazer um exercício um pouco mais lúdico e menos rigoroso. Numa de nossas primeiras postagens, trouxemos um trecho do manifesto partidário do PSOL, como evidência das suas intenções e objetivos proclamados. A frequência de aparição de algumas palavras nos chamou atenção, por representarem de maneira suficiente, a percepção geral do que representa o PSOL e o que ele busca enquanto partido.
 
 Isso deu margem a duas perguntas interessantes:
+
 1 - Será que o exercício é reproduzível para outros partidos? Ou seja, ao fazermos a mesma análise quantitativa de palavras conseguiríamos identificar posicionamentos ideológicos claros dos demais grandes partidos brasileiros?
 
 2 - A partir dessa análise dos demais partidos, seria possível agrupa-los com distinções ideológicas claras?
 
-Você pode tirar sua próprias conclusões ao observar as nuvens de cada partido.
+Dessa forma, fizemos o teste e aprensentamos o resultado em forma de núvens de palavras para os 7 principais partidos que disputam essa eleição presidencial. Você pode tirar sua próprias conclusões ao observar as nuvens de cada partido.
 
 Nos chama atenção a predominânica de 4 palavras:
 Estado, política, direito e desenvolvimento.
@@ -23,7 +24,7 @@ PT e PSOL embora compartilhem das mesmas palavras, também apresenta termos comu
 
 Nenhum partido brasileiro tem em seus manifestos a predominância de palavras comuns no liberalismo clássico ou austríaco como: "liberdade", "mercado", "riqueza"
 
-Pelo menos em seus manifestos, todos os grandes partidos políticos brasileiros parecem anunciar o mesmo objetivo:
+Pelo menos em seus manifestos, os grandes partidos políticos brasileiros parecem anunciar o mesmo objetivo:
 A social-democracia europeia.
 
 ![image](https://raw.githubusercontent.com/politidados/politidados.github.io/master/_posts/img/mdb-wordcloud.png)
